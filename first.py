@@ -1,1 +1,1 @@
-a="Welcome to MLOPS series"
+a="Welcome to MLOPS"
